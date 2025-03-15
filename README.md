@@ -164,6 +164,3 @@ chatapp/
 
 Feel free to submit issues and enhancement requests.
 
-## License
-
-This project is licensed under the ISC License.
